@@ -3,7 +3,6 @@ Projeto de Sala de Aula UCL 2024
 Projeto Aplicativo #2 - Pedra, Papel e Tesoura
 
 Mat: 122100003
-Mat: 221170002
 Mat: 221100010
 
 Captura de tela do aplicativo criado.
